@@ -89,13 +89,13 @@ The key point is that you entered the market at the worst time –- on October 8
 
 But if you take another look at the chart above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steadily positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
-Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at it's all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
+Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017, when Bitcoin was at its all-time high of \$19,800. Shortly afterwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
 ![Figure04](../images/Figure04.png)
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% of its all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
@@ -275,7 +275,7 @@ Buffett is not just successful, he's also always very open in sharing his though
 
 >Warren Buffett has a zero cost of capital!
 
-Berkshire Hathaway's key turning point in its early years came in 1967, when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire was a textile company that Buffett took control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1965.
+Berkshire Hathaway's key turning point in its early years came in 1967, when it bought National Indemnity Company and entered the insurance industry. Remember, Berkshire was a textile company that Buffett took control of in a fit of anger, and he regretted getting into the textile industry for many years. It wasn't until 1985 that Berkshire finally exited the textile business, nearly 20 years after Buffett took control in 1964.
 
 But after entering the insurance market in 1967, Berkshire became an investing machine. The reason was simple: Buffett not only had a huge amount to invest, the funds also came at zero cost, and they could be used almost indefinitely. This was a huge relative advantage over all other investors in the world.
 
@@ -394,7 +394,7 @@ How can someone who doesn't even know what their criteria should be make a choic
 
 >The more long-term successful experience investors have, the more open they are.
 
-Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and through other media. Starting in 1965, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
+Warren Buffett started writing public letters to investors a long time ago, and later on he continued to share his investing ideas and decision-making process on television and through other media. Starting in 1964, Buffett has written a public letter to investors each year. As of 2019, he has been writing them for 54 years! Ever since 1973, he and Charlie Munger have held freewheeling Q&A sessions at yearly shareholder meetings. In 2019, the 46<sup>th</sup> year, a record 16,200 people attended, not including people watching online around the world.
 
 >Berkshire Hathaway's shareholder letters from 1977 to 2018 are available here: 
 >
